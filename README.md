@@ -1,3 +1,4 @@
+
 # Quantum Mechanics & Relativity — Informational Course
 
 A concise, self-contained repository on quantum mechanics and relativity. Includes organized notes, example code, and visualizations covering wave mechanics, quantum operators, special and general relativity, spacetime geometry, and applications in astrophysics and particle physics.
