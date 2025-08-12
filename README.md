@@ -13,6 +13,7 @@ A concise, self-contained repository on quantum mechanics and relativity. Includ
 - Applications in astrophysics and particle physics
 
 ## 📂 Structure
+**Start here:** [Notes Index](notes/index.md)
 - **`notes/`** — Written explanations, derivations, and references
 - **`code/`** — Example Python/Notebooks for concepts
 - **`figures/`** — Diagrams, plots, and visual aids
