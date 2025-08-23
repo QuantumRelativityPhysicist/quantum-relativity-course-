@@ -1,7 +1,8 @@
-
 # Quantum Mechanics & Relativity — Informational Course
 
 A concise, self-contained repository on quantum mechanics and relativity. Includes organized notes, example code, and visualizations covering wave mechanics, quantum operators, special and general relativity, spacetime geometry, and applications in astrophysics and particle physics.
+
+📖 **Start here:** [Notes Index](notes/index.md)
 
 ## 📚 Topics Covered
 - Fundamentals of quantum mechanics
@@ -13,10 +14,10 @@ A concise, self-contained repository on quantum mechanics and relativity. Includ
 - Applications in astrophysics and particle physics
 
 ## 📂 Structure
-**Start here:** [Notes Index](notes/index.md)
-- **`notes/`** — Written explanations, derivations, and references
-- **`code/`** — Example Python/Notebooks for concepts
-- **`figures/`** — Diagrams, plots, and visual aids
+- **`notes/`** — Written explanations, derivations, and references  
+- **`code/`** — Example Python/Notebooks for concepts  
+- **`figures/`** — Diagrams, plots, and visual aids  
 
 ## 🔍 Purpose
 This repository serves as a public knowledge base for anyone studying or reviewing quantum mechanics and relativity, with an emphasis on clarity, accessibility, and connection to real-world physics.
+
