@@ -12,5 +12,3 @@
 
 \- \[Basics](relativity\_basics.md)
 
-
-
