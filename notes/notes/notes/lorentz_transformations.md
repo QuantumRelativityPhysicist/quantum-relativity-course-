@@ -11,11 +11,14 @@ z' = z
 $$
 
 where
+
 $$
 \gamma = \frac{1}{\sqrt{1 - v^2/c^2}}
 $$
 
+---
+
 ## Consequences
-- **Time dilation**: Moving clocks run slower.
-- **Length contraction**: Moving rods are shorter along the direction of motion.
-- **Relativity of simultaneity**: Events that are simultaneous in one frame may not be in another.
+- **Time dilation:** Moving clocks run slower.  
+- **Length contraction:** Moving rods are shorter along the direction of motion.  
+- **Relativity of simultaneity:** Events that are simultaneous in one frame may not be in another.
